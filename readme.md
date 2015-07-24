@@ -2,6 +2,9 @@
 
 To prepare for this week's "RSpec" lesson, you'll be reading some portions of [The RSpec Book](http://locker.wdidc.org/Testing/the-rspec-book.p2_1.pdf).
 
+- user: ga
+- pass: yellowpencil
+
 We are not expecting a deep understanding after the reading.  The reading is presented to expose you to the concepts and terms.
 
 NOTE: The cucumber sections are optional, but recommended.
